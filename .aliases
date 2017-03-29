@@ -1,0 +1,4 @@
+alias mtr="mtr -t"
+alias xcopy="xclip -selection clipboard"
+alias whois-arin="whois -h whois.arin.net"
+alias whois-ripe="whois -h whois.ripe.net"
